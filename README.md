@@ -1,8 +1,9 @@
-<h1>Projeto numero secreto</h1>
+<h1>Projeto número secreto</h1>
 
+<h2>About</h2>
 <p>projeto desenvolvido com o intuito de entreter o usuario na tentativa de descobrir um padrao do proximo numero </p>
 
-<p>Projeto utilizado nos cursos de Versionamento ministrado pela professora** Raquel Cardoso**.</p>
+<p>Projeto utilizado nos cursos de Versionamento ministrado pela professora **Raquel Cardoso**.</p>
 
 <h2> Tecnologias ultilzadas</h2>
 <div>
