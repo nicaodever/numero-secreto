@@ -2,7 +2,7 @@
 
 <p>projeto desenvolvido com o intuito de entreter o usuario na tentativa de descobrir um padrao do proximo numero </p>
 
-<p>Projeto utilizado nos cursos de Versionamento ministrado pela professora RaqueL Cardoso.</p>
+<p>Projeto utilizado nos cursos de Versionamento ministrado pela professora** Raquel Cardoso**.</p>
 
 <h2> Tecnologias ultilzadas</h2>
 <div>
